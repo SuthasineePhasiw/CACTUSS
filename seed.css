@@ -14,3 +14,12 @@
 .seed-check{
     margin-left: 105px;
 }
+
+.text-link{
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+.text-color{
+    text-emphasis-color: black;
+}
