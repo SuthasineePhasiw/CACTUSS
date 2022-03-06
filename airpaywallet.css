@@ -1,0 +1,40 @@
+.total{
+    margin-top: -130px;
+}
+.total1{
+    margin-top: -70px;
+}
+.product{
+    margin-left: 50px;
+    margin-top: 40px;
+}
+.t-product{
+    font-weight: bold;
+}
+.payment{
+    margin-top: -40px;
+    margin-left: 150px;
+}
+.payment-item{
+    background-color: #EFDADA;
+    color: black;
+}
+.linear{
+    background: linear-gradient(#EFDADA,#F2F2F2);
+}
+.btn0{
+    margin-top: -85px;
+    margin-left: 200px;
+}
+.btn1{
+    background-color: #EFDADA;
+}
+.select{
+    max-width: 200px;
+    margin-top: -45px;
+    margin-left: 100px;
+}
+.form-check-box{
+    margin-top: -40px;
+    margin-left: 250px;
+}
