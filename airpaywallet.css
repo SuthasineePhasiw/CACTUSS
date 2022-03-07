@@ -4,6 +4,9 @@
 .total1{
     margin-top: -70px;
 }
+.total2{
+    margin-right: 100px;
+}
 .product{
     margin-left: 50px;
     margin-top: 40px;
@@ -29,6 +32,9 @@
 .btn1{
     background-color: #EFDADA;
 }
+.btn1{
+    background-color: #EFDADA;
+}
 .select{
     max-width: 200px;
     margin-top: -45px;
@@ -37,4 +43,7 @@
 .form-check-box{
     margin-top: -40px;
     margin-left: 250px;
+}
+.ad-se{
+    position: fixed ;
 }
